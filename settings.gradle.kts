@@ -1,0 +1,1 @@
+rootProject.name = "com.sweetraingarden.attacking-token-for-app"
